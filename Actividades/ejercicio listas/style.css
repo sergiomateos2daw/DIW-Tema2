@@ -1,0 +1,15 @@
+li{
+    list-style-type: decimal-leading-zero;
+}
+
+div{
+    background-color: rgb(203, 203, 203);
+    border-left-color: red;
+    border-left-width: 5px;
+    border-left-style: solid;
+}
+
+ol{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
