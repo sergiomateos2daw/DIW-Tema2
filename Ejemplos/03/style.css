@@ -1,0 +1,13 @@
+.child {
+  color: inherit;
+}
+
+.padre {
+  color: green;
+  border: 1px solid red;
+  
+}
+.padre p {
+  border: solid;
+  border-color: red;
+}
